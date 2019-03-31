@@ -1,3 +1,5 @@
+//Depends on NODE.java
+
 public class LinkedList<T>
 {
 	//attributes
